@@ -1,2 +1,2 @@
 # parse_sap_blueprint
-Parse docs from solar01 for import to soldoc
+Parse docs from solar01 for import to soldoc, SAP Solution Manager
